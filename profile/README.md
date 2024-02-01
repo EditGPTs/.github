@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="256" src="https://github.com/EditGPTs/.github/blob/main/logo.png" />
-</p>
-
 # 产品
 
 - 微信小程序：
