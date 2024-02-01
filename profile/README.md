@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="256" src="../logo.png" />
+  <img width="256" src="https://github.com/EditGPTs/.github/blob/main/logo.png" />
 </p>
 
 # 产品
 
 - 微信小程序：
 <p align="center">
-  <img width="256" src="../gh_40ff686ad843_258.jpg" />
+  <img width="256" src="https://github.com/EditGPTs/.github/blob/main/gh_40ff686ad843_258.jpg" />
 </p>
 
 - 桌面软件
@@ -18,5 +18,5 @@
 - 微信公众号：
 
 <p align="center">
-  <img width="256" src="../gh_d336e4959b7d_258.jpg" />
+  <img width="256" src="https://github.com/EditGPTs/.github/blob/main/gh_d336e4959b7d_258.jpg" />
 </p>
